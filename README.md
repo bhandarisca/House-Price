@@ -5,4 +5,4 @@ This project predicts house price using synthetic data based on features such as
 # On May 29
 we added new code for eda using statistics
 
-# on July we updated the ersion
+# We added new linear regression model to the repo
